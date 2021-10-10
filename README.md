@@ -1,19 +1,16 @@
-
-### Pre-requisite
+# Pre-requisite
 Install Docker in local machine.
 
-# Running the solution
-From the root directory of this folder please run the below commands.
+### Running the solution
+From the root directory of this folder, please run the below commands-
 
-### Run Docker Build
-
+### Run Docker build
 
 ```console
 $ ./docker-build.sh
 ```
 
-### Run the program
-
+### Run Docker container
 
 ```console
 $ ./docker-run.sh
